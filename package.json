@@ -1,0 +1,14 @@
+{
+  "name": "clog",
+  "version": "1.0.0",
+  "description": "Console log helper that takes markdown syntax and only ",
+  "main": "index.js",
+  "type": "module",
+  "author": "Bresnow",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "marked": "^4.0.10",
+    "marked-terminal": "^5.0.0"
+  }
+}
