@@ -18,4 +18,3 @@ _
 
 ![test.js](./img/test.png 'Test run')
 
-#### still developing ... npm package soon
